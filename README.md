@@ -1,4 +1,7 @@
 https is for adding the following ReferHelp app config file for universal link.
+provided at node: jogchat-react-https-frontend
+ip:138.68.237.238
+
 # https_secure_sign
 
 ```
