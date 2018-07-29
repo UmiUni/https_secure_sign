@@ -8,7 +8,7 @@ https is for adding the following ReferHelp app config file for universal link.
         "details": [
             {
                 "appID": "CR32K9WG2A.com.umiuni.ReferHelper",
-                "paths": [ "/signup"]
+                "paths": [ "/signup", "/reset" ]
             }
         ]
     }
